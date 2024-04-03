@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Makaveli2710
+- 👀 I’m interested in CS, and especially Machine Learning.
+- 🌱 I’m currently learning Python while in my first year of Uni. I am a Major in Embedded Systems.
+- 💞️ I’m looking to collaborate on projects in the future, for the fun of the code, and also maybe achieve history.
+- 📫 How to reach me : this is my email : trapped3nigma@gmail.com
+- 😄 Pronouns: um what are those ? but i am straight (M).
+- ⚡ Fun fact: my first code was on Visual Basic :))
